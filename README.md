@@ -15,6 +15,8 @@ Run Webpack in watch-mode to continually compile the JavaScript as you work:
 $ yarn watch # npm run watch
 ```
 
+Notes from Anthony 10/19/2022 - This Quizzical App is a solo project that I built as part of the Frontend Developer Career Path at Scrimba. All code was written by me. The webpack.config.js may be a bit dated and I am still working on deploying this app via Netlify and/or GitHub Pages! 
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
