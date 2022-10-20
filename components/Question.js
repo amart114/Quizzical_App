@@ -1,5 +1,4 @@
-import React, {useContext} from "react"
-import {Context} from "../Context"
+import React from "react"
 
 export default function Question({question}) {
     

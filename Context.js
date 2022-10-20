@@ -12,7 +12,6 @@ function ContextProvider({children}) {
         fetch("https://opentdb.com/api.php?amount=5")
             .then(res => res.json())
             .then(data => {
-                // console.log(data)
                 startGame(data.results)
             })
     }, [playAgain])
