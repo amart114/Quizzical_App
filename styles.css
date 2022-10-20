@@ -17,9 +17,6 @@ body, html {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(./images/blob.png);
-    background-repeat: no-repeat;
-    background-position: bottom left;
 }
 
 .start-main h1 {
@@ -58,10 +55,6 @@ button {
     cursor: pointer;
 }
 
-.question-container {
-    
-}
-
 .question-container h3 {
     font-size: 1rem;
     margin: 0.25em;
@@ -90,8 +83,4 @@ button {
 
 .single-answer p {
     margin: 0;
-}
-
-.selected {
-    background-color: pink
 }
